@@ -1,4 +1,4 @@
-baseURL = "https://rafikahMH.github.io/"
+baseURL = "https://rafikahmh.github.io/"
 languageCode = "en-us"
 title = "Rafikah Halim"
 theme = "kube"
@@ -6,20 +6,20 @@ description = "Kube is a professional  and a responsive Hugo theme for developer
 Paginate = 4
 [Params]
   RSSLink = "/index.xml"
-  author = "newpixcom" # add your company name
-  github = "" # add your github profile name
+  author = "Rafikah Halim" # add your company name
+  github = "rafikahMH" # add your github profile name
   twitter = "" # add your twitter profile
-  email = "myemail@myaddress.xxx"
+  email = "rafikahMH"
 
 [[menu.main]]
     name = "Work"
-    weight = -100
+    weight = 1
     url = "/work/"
 [[menu.main]]
     name = "Notes"
-    weight = -100
+    weight = 2
     url = "/notes/"
 [[menu.main]]
     name = "Contact"
-    weight = -100
+    weight = 3
     url = "/contact/"
